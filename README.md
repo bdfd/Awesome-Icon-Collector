@@ -1,7 +1,7 @@
 <!--
  * @Author: BDFD
  * @Date: 2022-02-04 11:35:42
- * @LastEditTime: 2022-02-04 11:45:37
+ * @LastEditTime: 2022-02-04 11:49:22
  * @LastEditors: BDFD
  * @Description:
  * @FilePath: \Awesome-Icon-Collector\README.md
@@ -11,7 +11,7 @@
 
 ## Section 1: Markdown Emoji
 
-Include 10 Individual Section[https://github.com/bdfd/Awesome-Icon-Collector/tree/main/Markdown%20Emoji]
+[Include 10 Individual Section, click me to check it out](https://github.com/bdfd/Awesome-Icon-Collector/tree/main/Section1_MarkdownEmoji)
 
 - [x] **[Smileys & Emotion]😀**
 - [x] **[People & Body]✌️**
